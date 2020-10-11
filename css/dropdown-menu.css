@@ -1,0 +1,32 @@
+.account-active:after {
+	transform: rotate(180deg);
+}
+
+.personal-dropdown-active {
+	display: block;
+}
+
+.country-active {
+	display: block;
+}
+
+.info-down-active {
+	display: block;
+}
+
+.data-down-active {
+	display: block;
+}
+
+.down-arrow-active,
+.data-arrow-active {
+	transform: rotate(180deg);
+}
+
+.info-drop-down-active {
+	border-radius: 5px 5px 0 0;
+}
+
+.projects-data-active {
+	border-radius: 5px 5px 0 0;
+}
